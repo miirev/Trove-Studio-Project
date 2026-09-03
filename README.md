@@ -19,6 +19,9 @@ Trove Studio adalah aplikasi web toko online modern yang dirancang ringan, respo
 6. Buka peramban (browser) dan buka alamat lokal yang ditunjukkan untuk melihat tampilan aplikasi.
 
 ## Struktur Folder Proyek
+## 📁 Struktur Folder Proyek
+
+```text
 minishop2/
 ├── public/              # Aset statis (favicon, gambar umum, dll.)
 ├── src/                 # Kode sumber utama aplikasi
@@ -32,3 +35,5 @@ minishop2/
 ├── index.html           # File HTML utama
 ├── package.json         # Manifest proyek dan daftar dependensi
 ├── vite.config.js       # Konfigurasi bundler Vite
+└── README.md            # Dokumentasi proyek
+```
