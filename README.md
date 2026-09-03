@@ -19,7 +19,6 @@ Trove Studio adalah aplikasi web toko online modern yang dirancang ringan, respo
 6. Buka peramban (browser) dan buka alamat lokal yang ditunjukkan untuk melihat tampilan aplikasi.
 
 ## Struktur Folder Proyek
-## 📁 Struktur Folder Proyek
 
 ```text
 minishop2/
